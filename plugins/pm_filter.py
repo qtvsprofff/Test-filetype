@@ -109,7 +109,7 @@ async def next_page(bot, query):
 
     btn.insert(0,
         [
-            InlineKeyboardButton("🍁ɢʀᴏᴜᴩ🍁", url="https://t.me/qtmve_requestZz"),
+            InlineKeyboardButton("🍁ɢʀᴏᴜᴩ🍁", url="https://t.me/+5zdnXfOqEEwxNjQ1"),
             InlineKeyboardButton("⚡ᴄʜᴀɴɴᴇʟ⚡", url="https://t.me/qtmve_linkzZ")
         ]
     )
@@ -444,7 +444,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('⚚ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
             InlineKeyboardButton('⚡ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ⚡', url='https://t.me/qtmve_linkzZ'),
-            InlineKeyboardButton('⚡ ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ ⚡', url='https://t.me/qtmve_requestZz')
+            InlineKeyboardButton('⚡ ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ ⚡', url='https://t.me/+5zdnXfOqEEwxNjQ1')
         ], [
             InlineKeyboardButton('‼️ ʜᴇʟᴘ ‼️', callback_data='help'),
             InlineKeyboardButton('📬 ᴀʙᴏᴜᴛ ᴍᴇ 📬', callback_data='about')
@@ -702,7 +702,7 @@ async def auto_filter(client, msg, spoll=False):
 
     btn.insert(0,
         [
-            InlineKeyboardButton("🍁ɢʀᴏᴜᴩ🍁", url="https://t.me/qtmve_requestZz"),
+            InlineKeyboardButton("🍁ɢʀᴏᴜᴩ🍁", url="https://t.me/+5zdnXfOqEEwxNjQ1"),
             InlineKeyboardButton("⚡ᴄʜᴀɴɴᴇʟ⚡", url="https://t.me/qtmve_linkzZ")
         ]
     )
