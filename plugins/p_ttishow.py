@@ -59,7 +59,7 @@ async def save_group(bot, message):
 
                                                  reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('🔥  ↭ Main Channel ↭  🔥', url='https://t.me/qtmve_linkzZ') ],
 
-                                                                                      [ InlineKeyboardButton('🔥  ↭ Request Channel ↭  🔥', url='https://t.me/qtmve_requestZz') ]
+                                                                                      [ InlineKeyboardButton('🔥  ↭ Request Channel ↭  🔥', url='https://t.me/+5zdnXfOqEEwxNjQ1') ]
 
                                                                                     ] )
 
