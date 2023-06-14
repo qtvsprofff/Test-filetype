@@ -25,7 +25,7 @@ async def start(client, message):
             InlineKeyboardButton('⚚ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
             InlineKeyboardButton('⚡ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ⚡', url='https://t.me/qtmve_linkzZ'),
-            InlineKeyboardButton('⚡ ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ ⚡', url='https://t.me/qtmve_requestZz')
+            InlineKeyboardButton('⚡ ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ ⚡', url='https://t.me/+5zdnXfOqEEwxNjQ1')
         ], [
             InlineKeyboardButton('‼️ ʜᴇʟᴘ ‼️', callback_data='help'),
             InlineKeyboardButton('📬 ᴀʙᴏᴜᴛ ᴍᴇ 📬', callback_data='about')
@@ -48,7 +48,7 @@ async def start(client, message):
             InlineKeyboardButton('⚚ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
             InlineKeyboardButton('⚡ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ⚡', url='https://t.me/qtmve_linkzZ'),
-            InlineKeyboardButton('⚡ ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ ⚡', url='https://t.me/qtmve_requestZz')
+            InlineKeyboardButton('⚡ ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ ⚡', url='https://t.me/+5zdnXfOqEEwxNjQ1')
         ], [
             InlineKeyboardButton('‼️ ʜᴇʟᴘ ‼️', callback_data='help'),
             InlineKeyboardButton('📬 ᴀʙᴏᴜᴛ ᴍᴇ 📬', callback_data='about')
@@ -96,7 +96,7 @@ async def start(client, message):
             InlineKeyboardButton('⚚ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
             InlineKeyboardButton('⚡ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ⚡', url='https://t.me/qtmve_linkzZ'),
-            InlineKeyboardButton('⚡ ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ ⚡', url='https://t.me/qtmve_requestZz')
+            InlineKeyboardButton('⚡ ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ ⚡', url='https://t.me/+5zdnXfOqEEwxNjQ1')
         ], [
             InlineKeyboardButton('‼️ ʜᴇʟᴘ ‼️', callback_data='help'),
             InlineKeyboardButton('📬 ᴀʙᴏᴜᴛ ᴍᴇ 📬', callback_data='about')
