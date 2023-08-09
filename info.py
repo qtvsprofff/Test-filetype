@@ -29,7 +29,7 @@ ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001520430666').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '1044163529 5784009732').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
-auth_channel = environ.get('AUTH_CHANNEL', '-1001603607585')
+auth_channel = environ.get('AUTH_CHANNEL', '-1001666069456')
 auth_grp = environ.get('AUTH_GROUP')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
@@ -86,6 +86,6 @@ DOWNLOAD_TEXT_URL = "https://t.me/qtmve_linkzZ/340"
 
    # Custom Caption Under Button #
 CAPTION_BUTTON = "❤️JOIN❤️‍"
-CAPTION_BUTTON_URL = "https://t.me/qtmve_linkzZ"
+CAPTION_BUTTON_URL = "https://t.me/Qtmve_linkzZz"
 
    # Auto Delete For Bot Sending Files #
