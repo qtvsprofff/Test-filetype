@@ -110,7 +110,7 @@ async def next_page(bot, query):
     btn.insert(0,
         [
             InlineKeyboardButton("🍁ɢʀᴏᴜᴩ🍁", url="https://t.me/+5zdnXfOqEEwxNjQ1"),
-            InlineKeyboardButton("⚡ᴄʜᴀɴɴᴇʟ⚡", url="https://t.me/qtmve_linkzZ")
+            InlineKeyboardButton("⚡ᴄʜᴀɴɴᴇʟ⚡", url="https://t.me/qtmve_linkzzZ")
         ]
     )
 
@@ -443,13 +443,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('⚚ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton('⚡ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ⚡', url='https://t.me/qtmve_linkzZ'),
+            InlineKeyboardButton('⚡ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ⚡', url='https://t.me/qtmve_linkzzZ'),
             InlineKeyboardButton('⚡ ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ ⚡', url='https://t.me/+5zdnXfOqEEwxNjQ1')
         ], [
             InlineKeyboardButton('‼️ ʜᴇʟᴘ ‼️', callback_data='help'),
             InlineKeyboardButton('📬 ᴀʙᴏᴜᴛ ᴍᴇ 📬', callback_data='about')
         ], [
-            InlineKeyboardButton('🌈 ᴄʀᴇᴀᴛᴏʀ 🌈', url='https://t.me/MR_X_MIRROR')
+            InlineKeyboardButton('🌈 ᴄʀᴇᴀᴛᴏʀ 🌈', url='https://t.me/Owner_of_qtmve')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -703,7 +703,7 @@ async def auto_filter(client, msg, spoll=False):
     btn.insert(0,
         [
             InlineKeyboardButton("🍁ɢʀᴏᴜᴩ🍁", url="https://t.me/+5zdnXfOqEEwxNjQ1"),
-            InlineKeyboardButton("⚡ᴄʜᴀɴɴᴇʟ⚡", url="https://t.me/qtmve_linkzZ")
+            InlineKeyboardButton("⚡ᴄʜᴀɴɴᴇʟ⚡", url="https://t.me/qtmve_linkzzZ")
         ]
     )
     
