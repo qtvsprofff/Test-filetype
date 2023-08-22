@@ -18,7 +18,7 @@ class script(object):
 
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs/sᴇʀɪᴇs ᴀɴᴅ ʟᴏᴛ ᴍᴏʀᴇ... ᴅᴏɴ'ᴛ ᴡᴀsᴛᴇ ʏᴏᴜʀ ᴛɪᴍᴇ ʙʏ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ.. ᴀᴅᴅ & ᴇɴᴊᴏʏ ᴍᴇʜ ᴘᴏᴡᴇʀ
 
-ᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ <a href=https://t.me/MR_X_MIRROR><b>ᴍʀ x ᴍɪʀʀᴏʀ</b></a></b>''')
+ᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ <a href=https://t.me/Owner_of_qtmve><b>𝗠𝗔𝗗𝗛𝗔𝗡 𝗢𝗣</b></a></b>''')
     HELP_TXT = """ʜᴇʏ {}
 ʜᴇʀᴇ ɪꜱ ᴍʏ ᴄᴏᴍᴍᴀɴᴅꜱ."""
     ABOUT_TXT = """<b>
@@ -26,11 +26,11 @@ class script(object):
 │
 ├⍟ Meh Name : <a href=http://t.me/qtmvefilrer_bot><b>ᴍᴀᴅᴀɴ ᴏᴘ x ꜰɪʟᴛᴇʀ ʙᴏᴛ</b></a>
 ├⍟ Owner : <a href=https://t.me/Owner_of_qtmve><b>ᴠᴀɪʀᴀᴍᴜᴛʜᴜ</b></a>
-├⍟ Version : ᴍʀ x 3.1 [ Stable ]
-├⍟ Server : <a href=https://t.me/Owner_of_qtmve><b>ᴍʀ x sᴇʀᴠᴇʀ</b></a>
+├⍟ Version : 𝗤𝗧𝗩𝗦𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 [ Stable ]
+├⍟ Server : <a href=https://t.me/Owner_of_qtmve><b>𝗩𝗔𝗜𝗥𝗔𝗠</b></a>
 ├⍟ Language : ᴘʏᴛʜᴏɴ 3
 ├⍟ Framework : ᴘʏʀᴏɢʀᴀᴍ
-├⍟ Developer : <a href=https://t.me/Owner_of_qtmve><b>ᴍʀ x ᴍɪʀʀᴏʀ</b></a>
+├⍟ Developer : <a href=https://t.me/Owner_of_qtmve><b>𝗠𝗨𝗧𝗛𝗨</b></a>
 ├⍟ Powered By  : <a href=https://t.me/Owner_of_qtmve><b>ᴍᴀᴅᴀɴ ᴏᴘ</b></a>
 │
 ╰─────────────────────⍟<b>"""
